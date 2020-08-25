@@ -2,7 +2,7 @@
 apiVersion: entando.org/v1
 kind: EntandoDeBundle
 metadata:
-  name: eng-346
+  name: eng-346-MOD
   namespace: keb
   labels:
     widget: 'true'
@@ -22,5 +22,5 @@ spec:
     - version: v0.0.1
       shasum: 1639fd2f6d93d0dafe8594c632542e579c42d059
       integrity: 1639fd2f6d93d0dafe8594c632542e579c42d059
-      tarball: 'https://github.com/kerruba-bundles/ENG-346.git'
+      tarball: 'https://github.com/excess17/ENG-346-MOD.git'
 ```
